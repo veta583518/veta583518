@@ -1,4 +1,6 @@
-### Hi there 👋
+### Full Stack Web Developer leveraging background in Finance and Business Analytics to provide unique perspectives on how end-users interact with websites and software platforms. 
+
+📫 How to reach me: veta583518@gmail.com
 
 <!--
 **veta583518/veta583518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
